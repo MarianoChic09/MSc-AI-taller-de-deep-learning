@@ -1,1 +1,8 @@
 ruta_donde_guardar_datos/
+
+events.out*
+
+
+Tarea 1/scene_classification/
+
+*.zip
